@@ -1,6 +1,6 @@
-This is a Dockerfile setup for plex with plexpass - http://plex.tv/
-
 ###Informations
+-----------
+This is a Dockerfile setup for plex with plexpass - http://plex.tv/
 
 Plex Media Server 0.9.10.3 is now available for Plex Pass users. 0.9.10.2 was too good, so we skipped it and jump directly to 0.9.10.3. 
 Lot of changes under the hood here, make sure to provide feedback on things that is working in 0.9.10.1 but does not work in 0.9.10.3.
