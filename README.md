@@ -2,10 +2,8 @@ This is a Dockerfile setup for plex with plexpass - http://plex.tv/
 
 ###Informations
 
-Plex Media Server 0.9.10.3 is now available for Plex Pass users.
- 
-0.9.10.2 was too good, so we skipped it and jump directly to 0.9.10.3. Lot of changes under the hood here, make sure to provide feedback on things 
-that is working in 0.9.10.1 but does not work in 0.9.10.3.
+Plex Media Server 0.9.10.3 is now available for Plex Pass users. 0.9.10.2 was too good, so we skipped it and jump directly to 0.9.10.3. 
+Lot of changes under the hood here, make sure to provide feedback on things that is working in 0.9.10.1 but does not work in 0.9.10.3.
 
 ###Support
 -----------
@@ -17,7 +15,7 @@ that is working in 0.9.10.1 but does not work in 0.9.10.3.
 * NEW:
 	- Media server is now localized ~ http://www.getlocali...lexMediaServer/
 	
-*FIXES:
+* FIXES:
 	- An issue shuffling all episodes.
 	- Improve Cinema Trailer selection when video has unknown content rating.
 	- After a network issue, the server could become unresponsive.
